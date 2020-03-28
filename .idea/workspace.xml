@@ -2,8 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3653e2f3-3dcf-4678-a160-43600a0bf821" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/1688Download.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/1688DownloadRes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AliIMG.py" beforeDir="false" afterPath="$PROJECT_DIR$/AliIMG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/spider.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alibb/spider.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/阿里商品链接.txt" beforeDir="false" afterPath="$PROJECT_DIR$/阿里商品链接.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +47,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/1688DownLoadIMG$AliIMG.coverage" NAME="AliIMG Coverage Results" MODIFIED="1585377502289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1688DownLoadIMG$app.coverage" NAME="app Coverage Results" MODIFIED="1585388519179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1688DownLoadIMG$AliIMG.coverage" NAME="AliIMG Coverage Results" MODIFIED="1585379187837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/1688DownloadRes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1722">
-              <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
+            <state relative-caret-position="136">
+              <caret line="8" column="50" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="21" />
+              <folding>
+                <element signature="e#131#230#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/1688Download.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,17 +102,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/阿里商品链接.txt" />
         <option value="$PROJECT_DIR$/AliIMG.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/caseDownload.html" />
+        <option value="$PROJECT_DIR$/templates/1688Download.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="601" />
-    <option name="y" value="52" />
-    <option name="width" value="1149" />
-    <option name="height" value="780" />
+    <option name="x" value="38" />
+    <option name="y" value="139" />
+    <option name="width" value="1401" />
+    <option name="height" value="755" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -69,6 +134,11 @@
               <item name="1688DownLoadIMG" type="b2602c69:ProjectViewProjectNode" />
               <item name="1688DownLoadIMG" type="462c0819:PsiDirectoryNode" />
               <item name="alibb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1688DownLoadIMG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1688DownLoadIMG" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -90,6 +160,11 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -102,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.app">
     <configuration name="AliIMG" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1688DownLoadIMG" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,8 +200,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1688DownLoadIMG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.AliIMG" />
       </list>
     </recent_temporary>
@@ -141,91 +239,127 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585376489780</updated>
-      <workItem from="1585376492874" duration="1534000" />
+      <workItem from="1585376492874" duration="2066000" />
+      <workItem from="1585387945645" duration="1484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1534000" />
+    <option name="totallyTimeSpent" value="3550000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="601" y="52" width="1149" height="780" extended-state="0" />
+    <frame x="38" y="139" width="1401" height="755" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2990063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16924208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3866279" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31592357" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32880846" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35595778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32880846" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3866279" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/1.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/30.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/23.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/20.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/8.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/7.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/24.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/26.jpg" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alibb/spider.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/阿里商品链接.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="192" selection-start-column="192" selection-end-column="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibb/可爱便携水杯_保温杯女士便携女情侣小巧简约ins原宿风/s1.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/可爱便携水杯_保温杯女士便携女情侣小巧简约ins原宿风/s2.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/可爱便携水杯_保温杯女士便携女情侣小巧简约ins原宿风/s3.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/可爱便携水杯_保温杯女士便携女情侣小巧简约ins原宿风/s4.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/可爱便携水杯_保温杯女士便携女情侣小巧简约ins原宿风/s5.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/定制水杯_盖304保温杯logo简约ins原宿男女学生/s1.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/定制水杯_盖304保温杯logo简约ins原宿男女学生/s2.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/定制水杯_盖304保温杯logo简约ins原宿男女学生/s3.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯便携运动水杯广告礼品杯定制logo批发/s2.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯便携运动水杯广告礼品杯定制logo批发/s3.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯便携运动水杯广告礼品杯定制logo批发/s4.jpg" />
+    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯便携运动水杯广告礼品杯定制logo批发/s5.jpg" />
     <entry file="file://$PROJECT_DIR$/AliIMG.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="77" column="32" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="32" />
+        <state relative-caret-position="500">
+          <caret line="104" selection-start-line="104" selection-start-column="2" selection-end-line="112" selection-end-column="21" />
           <folding>
-            <element signature="e#135#165#0" expanded="true" />
+            <element signature="e#134#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/阿里商品链接.txt">
+    <entry file="file://$PROJECT_DIR$/alibb/真空保温杯_新款真空智能保温杯 高档商务保温杯 创意定制logo/s2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/1688DownloadRes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="144" selection-start-column="144" selection-end-column="144" />
+        <state relative-caret-position="136">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/30.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/23.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/20.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/24.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibb/真空不锈钢保温杯_真空不锈钢保温杯女304随手杯礼品定制保温现货供应oem/26.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/templates/1688Download.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1722">
-          <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
+        <state relative-caret-position="374">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="e#131#230#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

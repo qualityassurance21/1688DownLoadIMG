@@ -15,7 +15,9 @@ import re
 
 
 def crawle(url):
-    browser = webdriver.Chrome()
+    option = webdriver.ChromeOptions()
+    option.add_argument('headless')
+    browser = webdriver.Chrome(options=option)
     browser.get(url=url)
 
     # 将滚动条移动到页面的底部
@@ -100,12 +102,12 @@ def crawle(url):
     browser.quit()
 
 
-if __name__ == '__main__':
-    f = open("阿里商品链接.txt", "r")
-    data = f.readlines()
-    f.close()
-    print(data)
-    for url in data:
-        url = url.replace('\n', '')
-        print(url)
-        crawle(url)
+# if __name__ == '__main__':
+#     f = open("阿里商品链接.txt", "r")
+#     data = f.readlines()
+#     f.close()
+#     print(data)
+#     for url in data:
+#         url = url.replace('\n', '')
+#         print(url)
+#         crawle(url)
